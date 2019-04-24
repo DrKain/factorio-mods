@@ -1,0 +1,33 @@
+{
+  "name": "factorio-mods",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "jsdom": "^15.0.0"
+  },
+  "main": "index.js",
+  "description": "An npm package to get stats for mods and users from mods.factorio.com",
+  "homepage": "https://github.com/DrKain/factorio-mods#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrKain/factorio-mods.git"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "factorio",
+    "mods",
+    "stats",
+    "downloads",
+    "user"
+  ],
+  "author": {
+    "name": "Kain",
+    "url": "http://ksir.pw"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrKain/factorio-mods/issues"
+  }
+}
